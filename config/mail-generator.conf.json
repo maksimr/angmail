@@ -1,0 +1,6 @@
+["{{repeat(20)}}", {
+    "id": "{{index}}",
+    "sender": "{{email}}",
+    "subject": "{{lorem(2,5)}}",
+    "body": "{{lorem(50,100)}}"
+}]
